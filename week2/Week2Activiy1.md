@@ -1,4 +1,4 @@
-## Week 1 Assignment
+## ACTIVITY 1: Research git
 
 <details>
         <summary><h2> Types of version control systems. What type is Git? </h2></summary>
