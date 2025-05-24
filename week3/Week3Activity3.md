@@ -1,2 +1,19 @@
 ## ACTIVITY 3: Writing a good readme file
-I encountered a few issues during setup because I had previously used VirtualBox. I needed to set up a new Ethernet adapter before my Kali Linux would connect. Additionally, I opted for PowerShell since it is better configured for the environment compared to Git Bash. Although I already had Git Bash installed when I was using Windows 10, I find that Windows 11 works much better with PowerShell than Git Bash. I relied on it for most of the assignment since it was easier to navigate. I also faced challenges setting up Metasploitable because the website wouldn't allow me to download the image. I obtained it from SourceForge and had to select the small icon next to the hard disk SATA Port 0 option to create a new virtual hard drive before I could get the application to load the correct OS.
+
+
+
+General Outline for Readmes:
+1. Project's Title
+2. Project Description
+3. Table of Contents (Optional)
+4. How to Install and Run the Project
+5. How to Use the Project
+6. Include Credits
+7. Add a License
+8. Badges
+9. How to Contribute to the Project
+10. Include Tests
+
+References:
+
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
