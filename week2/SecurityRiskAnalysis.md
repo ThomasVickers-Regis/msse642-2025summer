@@ -1,6 +1,6 @@
 # Week 2 Security Risk Analysis
 
-## Cryptographic Failures
+## Injection (Cross-Site Scripting)
 
 ### Introduction & Description
 Injection vulnerabilities, specifically Cross-Site Scripting (XSS), represent a significant risk to web applications. XSS flaws occur when an application includes untrusted data in a new web page without proper validation or escaping, or when it updates an existing web page with user-supplied data using a browser API that can create HTML or JavaScript. Attackers can leverage XSS to send malicious scripts to unsuspecting users. The end user's browser has no way to know that the script should not be trusted, and will execute the script. Because it thinks the script came from a trusted source, the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site.
