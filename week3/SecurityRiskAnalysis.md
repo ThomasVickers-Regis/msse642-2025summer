@@ -22,11 +22,12 @@ In conclusion, cryptographic failures represent a critical vulnerability categor
 
 The methodology to prevent these failures involves a robust approach: classifying data to determine protection needs, employing strong, up-to-date encryption for data at rest and in transit, and implementing rigorous key management practices. By adhering to industry best practices, avoiding weak or custom cryptography, and regularly auditing systems, organizations can significantly reduce the risk of cryptographic failures and protect sensitive information from unauthorized access.
 
-### References
+### Verification Sources
 - [Ashley Madison Data Breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach)
 - [Timeline: Ashley Madison Hack](https://www.digitalguardian.com/blog/timeline-ashley-madison-hack)
 - [Ashley Madison Revisited: Legal, Business, and Security Repercussions](https://www.infosecinstitute.com/resources/news/ashley-madison-revisited-legal-business-and-security-repercussions/)
 - [The Ashley Madison Data Dump Explained](https://www.nytimes.com/2015/08/20/technology/the-ashley-madison-data-dump-explained.html)
 
+### Prompt
 ---
 *Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from this document can you show me what a good assignment would look like with all important topics covered for this topic: Injection (Cross-Site Scripting)"*

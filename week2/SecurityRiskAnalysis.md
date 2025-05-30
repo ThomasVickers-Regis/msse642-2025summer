@@ -22,9 +22,10 @@ In summary, Injection vulnerabilities, particularly Cross-Site Scripting, pose a
 
 Effective prevention hinges on a multi-layered approach. This includes rigorous input validation to ensure data conforms to expectations, context-aware output encoding to neutralize malicious payloads before they are rendered, and the implementation of Content Security Policy to restrict the sources of executable scripts. By understanding the attack vectors and diligently applying these preventative measures, developers can significantly mitigate the risk of XSS vulnerabilities in their applications.
 
-### References
+### Verification Sources:
 - [Twitter XSS Worm Holds Lessons for IT](https://www.pcworld.com/article/503343/twitter_xss_worm_holds_lessons_for_it.html)
 - [Today's XSS onMouseOver Exploit on Twitter.com](https://stackoverflow.com/questions/3762746/todays-xss-onmouseover-exploit-on-twitter-com)
 
----
+### Prompt
+--- 
 *Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from this document can you show me what a good assignment would look like with all important topics covered for this topic: Cryptographic Failures"*

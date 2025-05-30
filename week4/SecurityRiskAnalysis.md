@@ -27,11 +27,12 @@ In summary, Broken Access Control is a prevalent and severe security vulnerabili
 
 To effectively prevent broken access control, applications must enforce access control checks on the server-side for every request, adopting a "deny by default" stance. Implementing robust mechanisms like RBAC or ABAC, using indirect object references, and conducting rigorous testing are crucial steps. By focusing on centralized and consistently applied access control logic, developers can significantly mitigate the risks associated with these vulnerabilities.
 
-### References
+### Verification Sources
 - [Hacking Facebook Photo Album](https://thehackernews.com/2015/02/hacking-facebook-photo-album.html)
 - [Facebook Photo Album Vulnerability Bug Bounty](https://www.theverge.com/2015/2/12/8026159/facebook-photo-album-vulnerability-bug-bounty)
 - [Facebook Bug Let Researcher Delete Any Public Photo](https://www.businessinsider.com/facebook-bug-delete-any-photo-12500-bounty-laxman-muthiyah-2015-2?op=1)
 - [Bug Let Researcher Delete Any Public Facebook Photo](https://www.pcmag.com/news/bug-let-researcher-delete-any-public-facebook-photo)
 
+### Prompt
 ---
 *Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from this document can you show me what a good assignment would look like with all important topics covered for this topic: Broken Access Control"*
