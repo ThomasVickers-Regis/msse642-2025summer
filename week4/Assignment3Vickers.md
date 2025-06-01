@@ -81,6 +81,8 @@ git add -u
 git commit -m "Your descriptive commit message here"
 ```
 
+![git remote](./git%20add.png)
+
 ### 9. Include an example of a file that will allow you to "ignore" files in your repo. What kinds of files should not be part of your version control?
 ```gitignore
 # Log files
@@ -162,6 +164,8 @@ git commit -m "Your commit message"
 # Push to remote
 git push origin main
 ```
+
+![git remote](./git%20add.png)
 
 ## Branches
 
