@@ -1,14 +1,3 @@
 ## Week 4 Reflection
 
-This week continued our exploration of security practices with a focus on risk analysis and security assessment. The week's activities provided deeper insights into identifying and mitigating security risks in software development.
-
-Key learnings from this week include:
-- Understanding the importance of security risk analysis in software development
-- Learning how to identify and assess potential security vulnerabilities
-- Developing skills in creating comprehensive security risk assessments
-- Understanding how to prioritize security risks based on their impact and likelihood
-- Learning how to document and communicate security risks effectively
-
-The focus on security risk analysis this week has helped me understand how to systematically approach security in software development. The exercises in risk assessment have provided practical experience in identifying and evaluating security concerns.
-
-This week's emphasis on risk analysis has shown me how to take a more structured approach to security, moving beyond just identifying vulnerabilities to understanding their potential impact and how to effectively address them.
+This week's focus on threat modeling and security assessment provided valuable insights into identifying and mitigating security risks in software development. The hands-on experience with STRIDE and OWASP methodologies has significantly enhanced my understanding of application security. Developing the threat model for the hiking club application was particularly enlightening, as it helped me understand how to systematically identify potential security vulnerabilities in a real-world scenario. Through the STRIDE methodology, I learned to identify various security threats such as spoofing in user authentication and information disclosure in medical data storage. The OWASP threat modeling process taught me how to identify critical assets, map attack surfaces, assess vulnerabilities, and implement appropriate security controls. This practical experience has given me a framework for approaching security in future projects, moving beyond just identifying individual vulnerabilities to understanding how to analyze entire system architectures, evaluate security controls, and make informed decisions about security implementations. I now feel more confident in my ability to identify potential security issues early in the development process and implement appropriate safeguards.
