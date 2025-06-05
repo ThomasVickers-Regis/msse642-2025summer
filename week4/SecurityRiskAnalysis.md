@@ -35,4 +35,4 @@ To effectively prevent broken access control, applications must enforce access c
 
 ### Prompt
 ---
-*Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from this document can you show me what a good assignment would look like with all important topics covered for this topic: Broken Access Control"*
+*Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from these documents can you format and grammar check my assignment and add any details that are relavent, topic: Broken Access Control"*

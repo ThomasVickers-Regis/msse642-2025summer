@@ -30,4 +30,4 @@ The methodology to prevent these failures involves a robust approach: classifyin
 
 ### Prompt
 ---
-*Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from this document can you show me what a good assignment would look like with all important topics covered for this topic: Injection (Cross-Site Scripting)"*
+*Generated using Gemini 2.5 Pro with the prompt: "Using the requirements from these documents can you format and grammar check my assignment and add any details that are relavent, topic: Injection (Cross-Site Scripting)"*
