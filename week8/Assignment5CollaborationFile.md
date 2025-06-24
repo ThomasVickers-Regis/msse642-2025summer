@@ -75,6 +75,39 @@ git checkout -b nigel
 
 ---
 
+## Step 3.5: Update Remote URL (If Needed)
+
+**Action**: Update the remote URL to point to your fork if you don't have write access
+
+**Instructions**:
+1. After cloning, check your remote configuration:
+   ```bash
+   git remote -v
+   ```
+2. If you get permission errors when pushing, you need to update remote to your fork:
+   - Update the remote to point to your fork:
+   ```bash
+   git remote set-url origin https://github.com/[your-username]/[repository-name].git
+   ```
+3. Verify the remote is updated:
+   ```bash
+   git remote -v
+   ```
+
+**Example**:
+```bash
+# If you cloned Ben's repo but don't have write access
+git remote set-url origin https://github.com/ThomasVickers-Regis/msse642.git
+```
+```bash
+git remote -v
+#should show your forks address as the remote address
+origin  https://github.com/ThomasVickers-Regis/msse642.git (fetch)
+origin  https://github.com/ThomasVickers-Regis/msse642.git (push)
+```
+
+---
+
 ## Step 4: Make Changes, Commit, and Publish the Branch
 
 **Action**: Make changes to the file, commit, and publish the branch
@@ -102,6 +135,14 @@ git checkout -b nigel
 - **Ben** - Added on [date]
 - **Nigel** - Added on [date]
 ```
+
+## Screenshots
+
+### PR created on forked branch
+![Ben PR Header](./SS1%20Ben%20PR%20Header.png)
+
+### PR submitted to teammate's repository
+![PR created Ben](./SS2%20PR%20created%20Ben.png)
 
 ---
 
