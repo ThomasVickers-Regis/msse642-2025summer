@@ -136,14 +136,6 @@ origin  https://github.com/ThomasVickers-Regis/msse642.git (push)
 - **Nigel** - Added on [date]
 ```
 
-## Screenshots
-
-### PR created on forked branch
-![Ben PR Header](./SS1%20Ben%20PR%20Header.png)
-
-### PR submitted to teammate's repository
-![PR created Ben](./SS2%20PR%20created%20Ben.png)
-
 ---
 
 ## Step 5: Submit a Pull Request
@@ -162,6 +154,14 @@ origin  https://github.com/ThomasVickers-Regis/msse642.git (push)
 **Example Pull Request for Team C**:
 - **Title**: "Add Spencer to collaboration file"
 - **Description**: "Added my name to the team members list in the collaboration file as part of Assignment 5."
+
+## Screenshot
+
+### PR created on forked branch
+![Ben PR Header](./SS1%20Ben%20PR%20Header.png)
+
+### PR submitted to teammate's repository
+![PR created Ben](./SS2%20PR%20created%20Ben.png)
 
 ---
 
