@@ -43,7 +43,7 @@ This file is designed for team collaboration using Git workflow. Each team membe
 **Example for Team C**:
 ```bash
 git clone https://github.com/ThomasVickers-Regis/msse642-2025summer.git
-git clone [Spencer's-repo-url]
+git clone https://github.com/SpencerLamphere/msse642-2025summer
 git clone [Ben's-repo-url]
 git clone [Nigel's-repo-url]
 ```
@@ -190,4 +190,4 @@ origin  https://github.com/ThomasVickers-Regis/msse642.git (push)
 *This section will be populated as team members complete their contributions*
 
 - **Thomas Vickers** - Repository owner
-
+- **Spencer** – Added on June 24, 2025
