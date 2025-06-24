@@ -1,4 +1,4 @@
-# Assignment 4 Collaboration File
+# Assignment 5 Collaboration File
 
 ## Team C Collaboration Instructions
 
@@ -14,10 +14,10 @@ This file is designed for team collaboration using Git workflow. Each team membe
 
 ## Step 1: Create Your Own Collaboration File
 
-**Action**: Create a new file in your repository called "Assignment4CollaborationFile.md"
+**Action**: Create a new file in your repository called "Assignment5CollaborationFile.md"
 
 **Instructions**:
-1. In your local repository, create a new file named `Assignment4CollaborationFile.md`
+1. In your local repository, create a new file named `Assignment5CollaborationFile.md`
 2. Add a basic header and description (like this file)
 3. Commit and push this file to your main branch
 4. Share your repository URL with your team members
@@ -80,10 +80,10 @@ git checkout -b nigel
 **Action**: Make changes to the file, commit, and publish the branch
 
 **Instructions**:
-1. Open the `Assignment4CollaborationFile.md` file
+1. Open the `Assignment5CollaborationFile.md` file
 2. Add your name and a brief message to the file (see format below)
 3. Save the file
-4. Stage your changes: `git add Assignment4CollaborationFile.md`
+4. Stage your changes: `git add Assignment5CollaborationFile.md`
 5. Commit your changes with a descriptive message:
    ```bash
    git commit -m "Add [your-name] to collaboration file"
@@ -120,7 +120,7 @@ git checkout -b nigel
 
 **Example Pull Request for Team C**:
 - **Title**: "Add Spencer to collaboration file"
-- **Description**: "Added my name to the team members list in the collaboration file as part of Assignment 4."
+- **Description**: "Added my name to the team members list in the collaboration file as part of Assignment 5."
 
 ---
 
